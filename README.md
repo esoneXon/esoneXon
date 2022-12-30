@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://i.imgur.com/KrSLFjM.png"
-        height="130">
+        height="50%">
 </p>
 <p align="center">
   <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
