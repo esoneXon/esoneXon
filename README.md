@@ -1,4 +1,4 @@
-![banner](blob:https://imgur.com/046a810d-bb7b-42d6-90c1-b0dfae7a7255)
+![banner](https://i.imgur.com/KrSLFjM.png)
 
 - 👋 Hi, I’m @esoneXon
 - 👀 I’m interested in ...
